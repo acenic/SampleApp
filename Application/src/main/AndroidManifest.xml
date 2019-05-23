@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
  Copyright 2013 The Android Open Source Project
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,21 +13,20 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
-
-
-
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools"
-          package="com.example.android.mediarecorder"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.android.mediarecorder"
     android:versionCode="1"
     android:versionName="1.0">
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 
+
     <!-- This app records A/V content from camera and stores it to disk -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.CAMERA" />
+
     <uses-feature android:name="android.hardware.camera" />
 
     <application
@@ -38,9 +36,12 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <!-- Since this sample records video from camera preview, locking the orientation to
+
+        <!--
+             Since this sample records video from camera preview, locking the orientation to
             landscape. Landscape mode offers us more preview space with standard video aspect
-            ratios (width > height) -->
+            ratios (width > height)
+        -->
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
@@ -51,6 +52,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".VideoListActivity"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light"></activity>
     </application>
 
 </manifest>
