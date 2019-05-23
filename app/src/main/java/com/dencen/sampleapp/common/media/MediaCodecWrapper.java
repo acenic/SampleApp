@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dencen.sampleapp;
+package com.example.android.common.media;
 
 import android.media.*;
 import android.os.Handler;
@@ -165,7 +165,7 @@ public class MediaCodecWrapper {
      *
      * A "sample" here refers to a single atomic access unit in the media stream. The definition
      * of "access unit" is dependent on the type of encoding used, but it typically refers to
-     * a single frame of video or a few seconds of audio. {@link MediaExtractor}
+     * a single frame of video or a few seconds of audio. {@link android.media.MediaExtractor}
      * extracts data from a stream one sample at a time.
      *
      * @param input A ByteBuffer containing the input data for one sample. The buffer must be set
@@ -194,7 +194,7 @@ public class MediaCodecWrapper {
 
             // we can't write our sample to a lesser capacity input buffer.
             if (size > buffer.capacity()) {
-                throw new WriteException(String.format(Locale.US,
+                throw new MediaCodecWrapper.WriteException(String.format(Locale.US,
                         "Insufficient capacity in MediaCodec buffer: "
                             + "tried to write %d, buffer capacity is %d.",
                         input.remaining(),
@@ -223,10 +223,10 @@ public class MediaCodecWrapper {
      *
      * A "sample" here refers to a single atomic access unit in the media stream. The definition
      * of "access unit" is dependent on the type of encoding used, but it typically refers to
-     * a single frame of video or a few seconds of audio. {@link MediaExtractor}
+     * a single frame of video or a few seconds of audio. {@link android.media.MediaExtractor}
      * extracts data from a stream one sample at a time.
      *
-     * @param extractor  Instance of {@link MediaExtractor} wrapping the media.
+     * @param extractor  Instance of {@link android.media.MediaExtractor} wrapping the media.
      *
      * @param presentationTimeUs The time, relative to the beginning of the media stream,
      * at which this buffer should be rendered.
@@ -295,8 +295,8 @@ public class MediaCodecWrapper {
     /**
      * Processes, releases and optionally renders the output buffer available at the head of the
      * queue. All observers are notified with a callback. See {@link
-     * OutputSampleListener#outputSample(MediaCodecWrapper, MediaCodec.BufferInfo,
-     * ByteBuffer)}
+     * OutputSampleListener#outputSample(MediaCodecWrapper, android.media.MediaCodec.BufferInfo,
+     * java.nio.ByteBuffer)}
      *
      * @param render True, if the buffer is to be rendered on the {@link Surface} configured
      *
