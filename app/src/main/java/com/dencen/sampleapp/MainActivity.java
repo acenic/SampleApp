@@ -183,8 +183,24 @@ public class MainActivity extends Activity implements ActivityCompat.OnRequestPe
         mMediaRecorder.setAudioSource(MediaRecorder.AudioSource.DEFAULT );
         mMediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);
         mMediaRecorder.setMaxDuration(10*1000);
+
+
+
         // Step 3: Set a CamcorderProfile (requires API Level 8 or higher)
         mMediaRecorder.setProfile(profile);
+
+        mMediaRecorder.setOnInfoListener(new MediaRecorder.OnInfoListener() {
+            @Override
+            public void onInfo(MediaRecorder mr, int what, int extra) {
+                releaseMediaRecorder(); // release the MediaRecorder object
+                mCamera.lock();         // take camera access back from MediaRecorder
+
+                // inform the user that recording has stopped
+                setCaptureButtonText("Capture");
+                isRecording = false;
+                releaseCamera();
+            }
+        });
 
         // Step 4: Set output file
         mOutputFile = CameraHelper.getOutputMediaFile(CameraHelper.MEDIA_TYPE_VIDEO);
