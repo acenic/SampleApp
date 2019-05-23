@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dencen.sampleapp;
+package com.example.android.common.media;
 
 import android.annotation.TargetApi;
 import android.hardware.Camera;
