@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/listView_Videos"
+    android:title="Video List"
+    app:showAsAction="always"/>
+    <item android:id="@+id/convert"
+        android:title="Convert Image to Video"
+        app:showAsAction="always"/>
+    <item android:id="@+id/slowmotion"
+        android:title="Slowmotion"
+        app:showAsAction="always"/>
+    <item android:id="@+id/fadeinout"
+        android:title="Fade In / Out"
+        app:showAsAction="always"/>
+</menu>

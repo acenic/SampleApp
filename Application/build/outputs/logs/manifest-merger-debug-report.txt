@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:1-71:12
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:1-71:12
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:1-71:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\dba17480ea8aa7860494603d323e77c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fb0d50c2c31556c7c56e37873f9af9c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\9734519e1bb21eacd7b5e107797df0c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\743f47726cf831b18b2915d39201d03c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e7ce37b7a2dc44cd0c4faca529953f88\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1f4d8d381a41b683c8f051a341aba854\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\7e2171b5a0be42ba4be7c3ffdb7436ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\70adffa22214fcf5e75083a59dad2bbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\de7f85e796002fd49c1545ef28ea1071\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\58d1de757a2dab1bb37e751f320e1dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\77793e971b63f2161d8f209b3f305820\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\a11e76a99f365ac82cafcd2371688c55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\22cf5c25dd4765a1d6e1c3979403a56b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\85d0652ac5218a55d2b54b92a72e595e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\11e8f9468439c3914a8bcf7d7dc57988\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\da76f45faa25da7ceac23de884538876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\07344e8a3ff67492a79202721cb6033c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3e078cc5ad3029ab99bc54272dfe8faf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e9c3bbaeced581f3e751ed4f3ad553db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fd7772a4f03d5abfa07418a80022e4a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\183f27b47a0b1d3a05e5dd6ade699ee9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\0613d9305cbc2b938662cb18cc713169\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\6581a50fb9e1787d7cb216382349806f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\4f3ea25e75cd3e6c86255fe2fc4e40f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e77504aa1f977f8248892b46edd82546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\cdaf38aed5d40dbea98ae5adbf952a1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3406399118c2db7692ebc6278051740e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\29075040de94d47d61017d9f25be15c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\8dacf71817713e06c70607ae678d4dd9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\aad07eb2802cb1f3c6942a4f32adc30e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\199ab8062cc5eddf5f4196128820e9ce\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:1-71:12
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:1-71:12
+	package
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:18:5-48
+	android:versionName
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:17:5-51
+	xmlns:android
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:27:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:28:5-65
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:28:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:30:5-60
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:30:19-57
+application
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:32:5-69:19
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e7ce37b7a2dc44cd0c4faca529953f88\AndroidManifest.xml:12:5-20
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e7ce37b7a2dc44cd0c4faca529953f88\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1f4d8d381a41b683c8f051a341aba854\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1f4d8d381a41b683c8f051a341aba854\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\183f27b47a0b1d3a05e5dd6ade699ee9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\183f27b47a0b1d3a05e5dd6ade699ee9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:36:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:34:9-41
+	tools:ignore
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:38:9-48
+	android:icon
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:35:9-45
+	android:allowBackup
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:37:9-40
+activity#com.example.android.mediarecorder.MainActivity
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:48:13-50
+	android:label
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.android.mediarecorder.VideoListActivity
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:55:9-57:68
+	android:theme
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:57:13-65
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:56:13-46
+activity#com.example.android.mediarecorder.ConvertImageToVideo
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:58:9-61:68
+	android:label
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:60:13-51
+	android:theme
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:59:13-48
+activity#com.example.android.mediarecorder.SlowMotionEffect
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:62:9-65:68
+	android:label
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:64:13-47
+	android:theme
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:65:13-65
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:63:13-45
+activity#com.example.android.mediarecorder.FadeInEffectActivity
+ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:66:9-68:78
+	android:label
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:68:13-65
+	android:name
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml:66:19-55
+uses-sdk
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\dba17480ea8aa7860494603d323e77c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\dba17480ea8aa7860494603d323e77c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fb0d50c2c31556c7c56e37873f9af9c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fb0d50c2c31556c7c56e37873f9af9c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\9734519e1bb21eacd7b5e107797df0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\9734519e1bb21eacd7b5e107797df0c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\743f47726cf831b18b2915d39201d03c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\743f47726cf831b18b2915d39201d03c\AndroidManifest.xml:20:5-44
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e7ce37b7a2dc44cd0c4faca529953f88\AndroidManifest.xml:8:5-10:41
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e7ce37b7a2dc44cd0c4faca529953f88\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1f4d8d381a41b683c8f051a341aba854\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1f4d8d381a41b683c8f051a341aba854\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\7e2171b5a0be42ba4be7c3ffdb7436ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\7e2171b5a0be42ba4be7c3ffdb7436ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\70adffa22214fcf5e75083a59dad2bbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\70adffa22214fcf5e75083a59dad2bbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\de7f85e796002fd49c1545ef28ea1071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\de7f85e796002fd49c1545ef28ea1071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\58d1de757a2dab1bb37e751f320e1dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\58d1de757a2dab1bb37e751f320e1dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\77793e971b63f2161d8f209b3f305820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\77793e971b63f2161d8f209b3f305820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\a11e76a99f365ac82cafcd2371688c55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\a11e76a99f365ac82cafcd2371688c55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\22cf5c25dd4765a1d6e1c3979403a56b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\22cf5c25dd4765a1d6e1c3979403a56b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\85d0652ac5218a55d2b54b92a72e595e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\85d0652ac5218a55d2b54b92a72e595e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\11e8f9468439c3914a8bcf7d7dc57988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\11e8f9468439c3914a8bcf7d7dc57988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\da76f45faa25da7ceac23de884538876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\da76f45faa25da7ceac23de884538876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\07344e8a3ff67492a79202721cb6033c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\07344e8a3ff67492a79202721cb6033c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3e078cc5ad3029ab99bc54272dfe8faf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3e078cc5ad3029ab99bc54272dfe8faf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e9c3bbaeced581f3e751ed4f3ad553db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e9c3bbaeced581f3e751ed4f3ad553db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fd7772a4f03d5abfa07418a80022e4a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\fd7772a4f03d5abfa07418a80022e4a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\1b7a1be22529bec8a542afe3524fd89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\183f27b47a0b1d3a05e5dd6ade699ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\183f27b47a0b1d3a05e5dd6ade699ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\0613d9305cbc2b938662cb18cc713169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\0613d9305cbc2b938662cb18cc713169\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\6581a50fb9e1787d7cb216382349806f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\6581a50fb9e1787d7cb216382349806f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\4f3ea25e75cd3e6c86255fe2fc4e40f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\4f3ea25e75cd3e6c86255fe2fc4e40f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e77504aa1f977f8248892b46edd82546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\e77504aa1f977f8248892b46edd82546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\cdaf38aed5d40dbea98ae5adbf952a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\cdaf38aed5d40dbea98ae5adbf952a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3406399118c2db7692ebc6278051740e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\3406399118c2db7692ebc6278051740e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\29075040de94d47d61017d9f25be15c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\29075040de94d47d61017d9f25be15c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\8dacf71817713e06c70607ae678d4dd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\8dacf71817713e06c70607ae678d4dd9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\aad07eb2802cb1f3c6942a4f32adc30e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\aad07eb2802cb1f3c6942a4f32adc30e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\199ab8062cc5eddf5f4196128820e9ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nikola\.gradle\caches\transforms-2\files-2.1\199ab8062cc5eddf5f4196128820e9ce\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nikola\Desktop\Finish convert images to video\SampleApp\SampleApp\Application\src\main\AndroidManifest.xml

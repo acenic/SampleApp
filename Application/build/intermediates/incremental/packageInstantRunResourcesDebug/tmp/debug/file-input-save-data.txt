@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed May 29 14:07:18 CEST 2019
+1.base=C\:\\Users\\Ivan\\Desktop\\SampleApp\\Application\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=armeabi-v7a/ffmpeg
+0.set=ASSET
+0.base=C\:\\Users\\Ivan\\Desktop\\SampleApp\\Application\\build\\intermediates\\merged_assets\\debug\\out
+1.path=x86/ffmpeg
