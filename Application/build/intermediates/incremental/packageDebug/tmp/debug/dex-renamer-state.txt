@@ -1,0 +1,4 @@
+#Wed Jun 05 23:06:53 CEST 2019
+base.0=C\:\\Users\\Nikola\\Desktop\\New folder\\SampleApp\\SampleApp\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
