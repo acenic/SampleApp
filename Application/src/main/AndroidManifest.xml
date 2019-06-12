@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.android.mediarecorder"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
+    <!-- This app records A/V content from camera and stores it to disk -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".AddAudioInVideo"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light"
+            android:label="Change audio in video"/>
+        <activity
+            android:name=".ZoomInZoomOut"
+            android:label="Zoom In / Zoom Out Effect"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light" />
+        <!--
+             Since this sample records video from camera preview, locking the orientation to
+            landscape. Landscape mode offers us more preview space with standard video aspect
+            ratios (width > height)
+        -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".VideoListActivity"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light" />
+        <activity
+            android:name=".ConvertImageToVideo"
+            android:label="Convert Image to Video"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light" />
+        <activity
+            android:name=".SlowMotionEffect"
+            android:label="Slow Motion Effect"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light" />
+        <activity
+            android:name=".FadeInEffectActivity"
+            android:label="Fade in / out effect"
+            android:theme="@style/Base.V7.Theme.AppCompat.Light" />
+    </application>
+
+</manifest>

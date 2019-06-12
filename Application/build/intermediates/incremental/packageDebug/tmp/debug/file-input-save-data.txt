@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jun 10 21:23:06 CEST 2019
+2.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=DEX
+0.path=armeabi-v7a/ffmpeg
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=x86/ffmpeg
+4.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+count=6
+5.baseType=DIRECTORY
+2.path=lib/armeabi-v7a/libARM_ARCH.so
+5.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+4.set=NATIVE_RESOURCE
+3.path=lib/armeabi/libARM_ARCH.so
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/x86/libARM_ARCH.so
+1.baseType=DIRECTORY
+5.path=classes.dex
+0.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=ASSET
