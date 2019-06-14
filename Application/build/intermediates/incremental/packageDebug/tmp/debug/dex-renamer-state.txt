@@ -1,0 +1,4 @@
+#Wed Jun 12 23:00:31 CEST 2019
+base.0=C\:\\Users\\Ivan\\Downloads\\SampleApp-CAT-509\\SampleApp-CAT-509\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
