@@ -140,7 +140,7 @@ public class MainActivity extends Activity implements ActivityCompat.OnRequestPe
     }
 
     private boolean prepareVideoRecorder(){
-
+/***** OVO JE ZA FUUKCIJA prepareVideoRecorder ****/
         // BEGIN_INCLUDE (configure_preview)
         mCamera = CameraHelper.getDefaultCameraInstance();
 
